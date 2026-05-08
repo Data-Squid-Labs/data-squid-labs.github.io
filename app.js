@@ -1,5 +1,5 @@
 /* ============================================================
-   Experiment700 — Hazard Intelligence
+   Data Squid Labs — Hazard Intelligence
    Site JavaScript
    - Animated topographic background (canvas)
    - Scroll-reveal animations for sections

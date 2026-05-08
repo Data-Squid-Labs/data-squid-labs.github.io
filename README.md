@@ -1,14 +1,14 @@
 <div align="center">
 
-# 🛡️ Experiment700
+# 🛡️ Data Squid Labs
 
 ### The marketing site for Hazard Intelligence.
 
-[![Live Site](https://img.shields.io/badge/site-live-34C759?style=for-the-badge)](https://experiment700.github.io)
+[![Live Site](https://img.shields.io/badge/site-live-34C759?style=for-the-badge)](https://data-squid-labs.github.io)
 [![Hosted on](https://img.shields.io/badge/hosted%20on-GitHub%20Pages-0A0E1A?style=for-the-badge&logo=github&logoColor=white)](https://pages.github.com/)
-[![Made in](https://img.shields.io/badge/made%20in-New%20Orleans-FF8C00?style=for-the-badge)](https://github.com/Experiment700)
+[![Made in](https://img.shields.io/badge/made%20in-New%20Orleans-FF8C00?style=for-the-badge)](https://github.com/data-squid-labs)
 
-[**🌐 Live at experiment700.github.io**](https://experiment700.github.io)
+[**🌐 Live at data-squid-labs.github.io**](https://data-squid-labs.github.io)
 
 </div>
 
@@ -16,11 +16,11 @@
 
 ## What This Is
 
-The public-facing website for **Experiment700** — the company behind [Hazard Intelligence](https://github.com/Experiment700/Hazard-Intelligence), a real-time human safety platform for iOS.
+The public-facing website for **Data Squid Labs** — the company behind [Hazard Intelligence](https://github.com/data-squid-labs/Hazard-Intelligence), a real-time human safety platform for iOS.
 
-This repository auto-deploys to **[experiment700.github.io](https://experiment700.github.io)** via GitHub Pages whenever changes are pushed to `main`.
+This repository auto-deploys to **[data-squid-labs.github.io](https://data-squid-labs.github.io)** via GitHub Pages whenever changes are pushed to `main`.
 
-The site is a single-page landing experience plus a hosted privacy policy at [experiment700.github.io/privacy](https://experiment700.github.io/privacy/). It is intentionally lightweight — no frameworks, no build step, no CMS. Three files of HTML, one CSS, one JS, and it loads on any phone in under a second.
+The site is a single-page landing experience plus a hosted privacy policy at [data-squid-labs.github.io/privacy](https://data-squid-labs.github.io/privacy/). It is intentionally lightweight — no frameworks, no build step, no CMS. Three files of HTML, one CSS, one JS, and it loads on any phone in under a second.
 
 ---
 
@@ -79,7 +79,7 @@ git commit -m "your changes"
 git push
 ```
 
-Within ~1–3 minutes of pushing to `main`, the live site at [experiment700.github.io](https://experiment700.github.io) reflects the changes. No CI to configure. No build pipeline to debug.
+Within ~1–3 minutes of pushing to `main`, the live site at [data-squid-labs.github.io](https://data-squid-labs.github.io) reflects the changes. No CI to configure. No build pipeline to debug.
 
 GitHub Pages settings: **Settings → Pages → Source: Deploy from a branch → `main` / `/ (root)`**.
 
@@ -89,22 +89,22 @@ GitHub Pages settings: **Settings → Pages → Source: Deploy from a branch →
 
 | Repository | Purpose |
 |---|---|
-| 📱 [Hazard-Intelligence](https://github.com/Experiment700/Hazard-Intelligence) | The iOS app + Python backend (private) |
-| 🌐 Experiment700.github.io | This site (public) |
+| 📱 [Hazard-Intelligence](https://github.com/data-squid-labs/Hazard-Intelligence) | The iOS app + Python backend (private) |
+| 🌐 data-squid-labs.github.io | This site (public) |
 
 ---
 
 ## Contact
 
-- 🌐 **Website:** [experiment700.github.io](https://experiment700.github.io)
-- ✉️ **Email:** [support@experiment700.com](mailto:support@experiment700.com)
-- 🔒 **Privacy:** [experiment700.github.io/privacy](https://experiment700.github.io/privacy/)
+- 🌐 **Website:** [data-squid-labs.github.io](https://data-squid-labs.github.io)
+- ✉️ **Email:** [datasquidlabs@protonmail.com](mailto:datasquidlabs@protonmail.com)
+- 🔒 **Privacy:** [data-squid-labs.github.io/privacy](https://data-squid-labs.github.io/privacy/)
 
 ---
 
 ## License
 
-© 2026 Experiment700. All rights reserved.
+© 2026 Data Squid Labs. All rights reserved.
 
 Site copy, design, and brand are proprietary. Code is not licensed for reuse without written permission.
 
@@ -114,6 +114,6 @@ Site copy, design, and brand are proprietary. Code is not licensed for reuse wit
 
 **Built in New Orleans. Built because someone had to.**
 
-🛡️ EXPERIMENT 700
+🛡️ DATA SQUID LABS
 
 </div>
